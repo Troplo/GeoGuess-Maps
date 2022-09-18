@@ -117,5 +117,11 @@
         "author": "Dimoushh",
         "imageUrl": "https://images.unsplash.com/photo-1446419385500-203d54c0c460?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=230",
         "url": "https://raw.githubusercontent.com/dimfort/content/main/nordicarea.geojson"
+    },
+	"melbourne-district": {
+        "name": "Melbourne District (large)",
+        "description": "Melbourne District",
+        "author": "Troplo",
+        "url": "https://raw.githubusercontent.com/Troplo/GeoGuess-Maps/main/public/geojson/maps/melbourne_district.geojson"
     }
 }
