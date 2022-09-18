@@ -218,5 +218,14 @@
             "type": "polygon",
             "pathKey": "provincia"
         }
-    }
+    },
+	"melbourne-district":{
+        "name": "Melbourne District",
+        "description": "Melbourne, Australia",
+        "author": "Troplo",
+        "data":{
+            "urlArea": "https://raw.githubusercontent.com/Troplo/GeoGuess-Maps/main/public/geojson/areas/melbourne_district.geojson",
+            "type": "polygon"
+        }
+    },
 }
