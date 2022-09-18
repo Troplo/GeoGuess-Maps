@@ -227,5 +227,5 @@
             "urlArea": "https://raw.githubusercontent.com/Troplo/GeoGuess-Maps/main/public/geojson/areas/melbourne_district.geojson",
             "type": "polygon"
         }
-    },
+    }
 }
